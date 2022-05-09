@@ -20,3 +20,7 @@ pipeline {
             steps {
                 sh './scripts/deliver.sh'
             }
+        }
+    }
+  
+}
